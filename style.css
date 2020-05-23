@@ -1,0 +1,42 @@
+body{
+     background-color:rgb(156, 212, 238); 
+}
+
+h1{
+    color: rgb(189, 11, 70);
+}
+
+h2{
+    color: rgb(163, 18, 199);
+}
+
+h3{
+    color: rgb(212, 81, 5);
+}
+
+.header * {
+    border : thick;
+    border-radius: 2px;
+
+}
+
+.header{
+    background-color: rgb(241, 238, 9);
+    display: flex;
+    justify-content: space-around;
+ }
+
+ 
+
+ a:link{
+    color : rgb(161, 20, 143);
+}
+
+a:visited{
+    color : rgb(30, 10, 143);
+}
+
+p{
+    color: rgb(233, 66, 66);
+}
+
